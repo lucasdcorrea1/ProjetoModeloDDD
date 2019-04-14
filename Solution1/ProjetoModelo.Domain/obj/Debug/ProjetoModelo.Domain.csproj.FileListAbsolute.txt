@@ -1,0 +1,6 @@
+C:\Users\canal\Documents\Lucas\Projetos\ProjetoModeloDDD\Solution1\ProjetoModelo.Domain\bin\Debug\ProjetoModelo.Domain.dll
+C:\Users\canal\Documents\Lucas\Projetos\ProjetoModeloDDD\Solution1\ProjetoModelo.Domain\bin\Debug\ProjetoModelo.Domain.pdb
+C:\Users\canal\Documents\Lucas\Projetos\ProjetoModeloDDD\Solution1\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.csprojAssemblyReference.cache
+C:\Users\canal\Documents\Lucas\Projetos\ProjetoModeloDDD\Solution1\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\canal\Documents\Lucas\Projetos\ProjetoModeloDDD\Solution1\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.dll
+C:\Users\canal\Documents\Lucas\Projetos\ProjetoModeloDDD\Solution1\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.pdb
