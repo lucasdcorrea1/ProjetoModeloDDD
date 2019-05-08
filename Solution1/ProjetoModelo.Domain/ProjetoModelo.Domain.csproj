@@ -31,7 +31,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Entitys\Cliente.cs" />
+    <Compile Include="Entitys\Produto.cs" />
+    <Compile Include="Interfaces\IClienteRepository.cs" />
+    <Compile Include="Interfaces\IRepositoryBase.cs" />
+    <Compile Include="Interfaces\IProdutoRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
